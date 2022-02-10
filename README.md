@@ -3,8 +3,7 @@
 To write a python program to implement K-Means Clustering Algorithm.
 ## Equipment’s required:
 1.	Hardware – PCs
-2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
-## Algorithm:
+2.	Anaconda – Python 3.7 Installation
 ### Step1
 <br>
 
